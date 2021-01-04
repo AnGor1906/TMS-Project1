@@ -1,0 +1,432 @@
+ .allthepage {
+     width: 100%;
+     font-family: 'Roboto', sans-serif;
+     padding: 0px;
+     margin: 0px;
+ }
+ 
+ .home {
+     display: flex;
+     height: 800px;
+     width: 100%;
+     font-weight: bolder;
+ }
+ 
+ .forbackground {
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ 
+ .homepic {
+     width: 50%;
+     height: 100%;
+     background-image: url('../project/images/home-img.jpg');
+     background-position: center;
+ }
+ 
+ .hometext {
+     width: 50%;
+     background-color: rgb(218, 198, 201);
+     vertical-align: middle;
+ }
+ 
+ .mainhometext {
+     padding: 110px 50px 0px;
+     text-align: justify;
+ }
+ 
+ .push {
+     border: 2px solid black;
+     border-radius: 20px;
+     background-color: rgb(218, 198, 201);
+     font-weight: 750;
+     width: auto;
+     margin-left: 0px;
+ }
+ 
+ .bolderweight {
+     font-weight: bolder;
+ }
+ 
+ .navigation {
+     list-style-type: none;
+     display: flex;
+     padding: 40px 90px;
+     justify-content: space-around;
+ }
+ 
+ .aboutme {
+     display: flex;
+     flex-wrap: wrap;
+     font-size: smaller;
+     font-weight: bolder;
+ }
+ 
+ .aboutmetext {
+     width: 50%;
+     background-color: white;
+ }
+ 
+ .paddingfordonec {
+     padding-left: 35px;
+     font-weight: lighter;
+ }
+ 
+ .paddingforgraytext {
+     padding: 35px;
+ }
+ 
+ .lighterweight {
+     font-weight: lighter;
+ }
+ 
+ .graytext {
+     color: rgb(136, 135, 135);
+ }
+ 
+ .orangetext {
+     color: rgb(223, 133, 69);
+ }
+ 
+ .padding_skills {
+     padding: 0px 25px;
+     color: white;
+ }
+ 
+ .myskillslist {
+     display: flex;
+     width: 50%;
+ }
+ 
+ .skillspic {
+     width: 50%;
+     background-image: url('../project/images/about-img.jpg');
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ 
+ .skillslist {
+     width: 50%;
+     background-color: rgb(235, 189, 106);
+ }
+ 
+ .padding_l {
+     padding: 10px 50px;
+     color: white;
+ }
+ 
+ .padding_l2 {
+     padding: 30px 50px;
+     color: white;
+     font-size: 34px;
+ }
+ 
+ .formyH {
+     padding: 10px 0px;
+     font-size: 34px;
+ }
+ 
+ .forDir {
+     font-size: 22px;
+     padding: 20px;
+ }
+ 
+ .sizeforperiodsH {
+     font-size: 24px;
+ }
+ 
+ .whitetext {
+     color: white;
+ }
+ 
+ .percents {
+     padding: 25px;
+ }
+ 
+ .blackandwhite {
+     padding: 5% 0%;
+ }
+ 
+ .bwtext {
+     display: flex;
+     justify-content: space-between;
+     padding-right: 20px;
+ }
+ 
+ .bwline {
+     height: 3px;
+     display: flex;
+     justify-content: space-between;
+     padding-right: 20px;
+ }
+ 
+ .black90 {
+     width: 90%;
+     background-color: black;
+ }
+ 
+ .black80 {
+     width: 80%;
+     background-color: black;
+ }
+ 
+ .black70 {
+     width: 70%;
+     background-color: black;
+ }
+ 
+ .white10 {
+     width: 10%;
+     background-color: white;
+ }
+ 
+ .white20 {
+     width: 20%;
+     background-color: white;
+ }
+ 
+ .white30 {
+     width: 30%;
+     background-color: white;
+ }
+ 
+ .directions {
+     display: flex;
+     width: 100%;
+     font-weight: lighter;
+     font-size: larger;
+ }
+ 
+ .iconfordirections {
+     font-size: 38px;
+ }
+ 
+ .dir1 {
+     width: 25%;
+     color: white;
+     background-color: rgb(235, 189, 106);
+     text-align: center;
+     padding: 50px 10px;
+ }
+ 
+ .dir2 {
+     width: 25%;
+     color: white;
+     background-color: rgb(247, 112, 89);
+     text-align: center;
+     padding: 50px 10px;
+ }
+ 
+ .dir3 {
+     width: 25%;
+     color: white;
+     background-color: black;
+     text-align: center;
+     padding: 50px 10px;
+ }
+ 
+ .dir4 {
+     width: 25%;
+     color: black;
+     background-color: white;
+     text-align: center;
+     padding: 50px 10px;
+ }
+ 
+ .experience {
+     display: flex;
+     flex-wrap: wrap;
+     height: 800px;
+     width: 100%;
+ }
+ 
+ .myeiconssize {
+     font-size: 36px;
+ }
+ 
+ .myexp {
+     display: flex;
+     height: 45%;
+     width: 100%;
+ }
+ 
+ .myexppic {
+     width: 50%;
+     background-image: url('../project/images/experience-img.jpg');
+     background-position: top;
+ }
+ 
+ .myexptext {
+     width: 50%;
+     height: 100%;
+     background-color: rgb(247, 112, 89);
+ }
+ 
+ .abouttheperiod {
+     color: white;
+     padding: 15px 45px;
+ }
+ 
+ .littleblack {
+     color: black;
+     font-size: 15px;
+     font-weight: bold;
+ }
+ 
+ .littlebrown {
+     color: rgb(168, 122, 60);
+     font-size: 15px;
+     font-weight: bold;
+ }
+ 
+ li {
+     list-style-type: none;
+ }
+ 
+ .myeduc {
+     display: flex;
+     height: 55%;
+     width: 100%;
+ }
+ 
+ .myeductext {
+     width: 50%;
+     height: 100%;
+     background-color: rgb(235, 189, 106);
+ }
+ 
+ .myeducpic {
+     width: 50%;
+     height: 100%;
+     background-image: url('../project/images/education-img.jpg');
+     background-position: top;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ 
+ .testimonial {
+     background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../project/images/quotes-bg.jpg);
+     background-position: top;
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+     color: white;
+     font-weight: 100;
+ }
+ 
+ .testimonialtext {
+     padding: 100px 250px;
+ }
+ 
+ .testbigtext {
+     color: white;
+     padding-bottom: 20px;
+     font-size: 38px;
+     font-weight: 300;
+ }
+ 
+ .testsmalltext {
+     color: white;
+     margin-top: 50px;
+ }
+ 
+ .contacts {
+     display: flex;
+     width: 100%;
+     font-family: 'Roboto', sans-serif;
+ }
+ 
+ .writemenow {
+     width: 50%;
+     height: 100%;
+     background-color: rgb(247, 112, 89);
+     padding: 0px;
+ }
+ 
+ .form {
+     background-color: rgb(247, 112, 89);
+     padding: 30px 40px;
+ }
+ 
+ input {
+     background-color: rgb(247, 112, 89);
+     border: 0px;
+     border-bottom: 1px solid yellow;
+     height: 50px;
+     width: 90%;
+     margin: 10px;
+ }
+ 
+ textarea {
+     background-color: rgb(247, 112, 89);
+     border: 0px;
+     border-bottom: 1px solid yellow;
+     width: 90%;
+     margin: 10px;
+ }
+ 
+ ::placeholder {
+     color: white;
+ }
+ 
+ button {
+     background-color: white;
+     padding: 10px 15px;
+     width: 250px;
+     border-radius: 25px;
+     border: 0px;
+     margin: 20px;
+ }
+ 
+ .contactspic {
+     width: 25%;
+     background-image: url('../project/images/contact-img.jpg');
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ 
+ .contactme {
+     width: 25%;
+     background-color: black;
+     color: white;
+ }
+ 
+ .forcontH {
+     font-size: 22px;
+     padding: 40px 30px;
+ }
+ 
+ .almycontacts {
+     color: rgb(136, 135, 135);
+     padding: 20px;
+ }
+ 
+ .foradress {
+     color: rgb(136, 135, 135);
+     padding: 10px 30px;
+ }
+ 
+ .newcontact {
+     margin: 5%;
+ }
+ 
+ footer {
+     text-align: center;
+     padding: 40px;
+ }
+ 
+ .icons {
+     width: 13%;
+     display: flex;
+     justify-content: space-between;
+     padding: 30px 0px;
+     color: rgb(136, 135, 135);
+     margin-left: 550px;
+ }
+ 
+ .footerinfo {
+     color: rgb(136, 135, 135);
+ }
